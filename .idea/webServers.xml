@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7cc4d41f-84d6-4161-95d4-7851cd3be01e" name="https://github.com/lyumni/problem.git" url="https://github.com/lyumni/problem.git">
+        <fileTransfer mountedRoot="E:\problem system\problem" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>

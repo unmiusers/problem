@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="https://github.com/lyumni/problem.git" remoteFilesAllowedToDisappearOnAutoupload="false">
+  <component name="PublishConfigData" serverName="https://github.com/lyumni/problem.git" uploadOnCheckin="7cc4d41f-84d6-4161-95d4-7851cd3be01e" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
       <paths name="https://github.com/lyumni/problem.git">
         <serverdata>
@@ -10,5 +10,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="https://github.com/lyumni/problem.git" />
   </component>
 </project>
